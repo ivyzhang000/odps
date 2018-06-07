@@ -1,6 +1,6 @@
 # 快速掌握SQL写法 {#concept_jxd_4qw_5db .concept}
 
-本文通过课程实践的方式，为您介绍 MaxCompute SQL，让您快速掌握 SQL 的写法，并清楚 MaxCompute SQL 和标准 SQL 的区别，请结合 [MaxCompute SQL 基础文档](../DNODPS1898901/ZH-CN_TP_11987_V1.dita) 进行阅读。
+本文通过课程实践的方式，为您介绍 MaxCompute SQL，让您快速掌握 SQL 的写法，并清楚 MaxCompute SQL 和标准 SQL 的区别，请结合 [MaxCompute SQL 基础文档](../cn.zh-CN/用户指南/SQL/SQL概述.md) 进行阅读。
 
 ## 数据集准备 {#section_cxt_3rw_5db .section}
 
