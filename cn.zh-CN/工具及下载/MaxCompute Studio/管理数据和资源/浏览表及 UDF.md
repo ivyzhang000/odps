@@ -2,7 +2,7 @@
 
 ## 查看表及函数 {#section_wf5_mmz_5db .section}
 
-在 **项目空间浏览器（Project Explorer\)** 窗口中可以快速浏览已添加连接的表、函数、资源等。使用前提是 [添加 MaxCompute 项目连接](ZH-CN_TP_12119_V1.dita)。
+在 **项目空间浏览器（Project Explorer\)** 窗口中可以快速浏览已添加连接的表、函数、资源等。使用前提是 [添加 MaxCompute 项目连接](cn.zh-CN/工具及下载/MaxCompute Studio/项目空间连接管理.md)。
 
 ## 浏览表和函数 {#section_xf5_mmz_5db .section}
 

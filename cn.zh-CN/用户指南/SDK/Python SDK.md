@@ -360,7 +360,7 @@ PyODPS支持MaxCompute SQL的查询，并可以读取执行的结果。
 
 ## DataFrame {#section_ns3_1bc_wdb .section}
 
-PyODPS提供了DataFrame API，它提供了类似pandas的接口，但是能充分利用MaxCompute的计算能力。完整的DataFrame文档请参见[DataFrame](http://pyodps.readthedocs.org/zh_CN/latest/df-zh.html)。
+PyODPS提供了DataFrame API，它提供了类似pandas的接口，但是能充分利用MaxCompute的计算能力。完整的DataFrame文档请参见[DataFrame](http://pyodps.readthedocs.io/zh_CN/latest/df.html)。
 
 DataFrame的示例如下：
 

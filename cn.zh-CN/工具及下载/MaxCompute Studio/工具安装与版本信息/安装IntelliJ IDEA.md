@@ -37,5 +37,5 @@
     ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/12116/1511_zh-CN.png)
 
 
-现在，您已经学习了如何安装 IntelliJ IDEA，您可以继续学习下一个教程。在该教程中您将学习如何安装 MaxCompute Studio 插件。详情请参见 [安装 Studio 插件](ZH-CN_TP_12117_V1.dita)。
+现在，您已经学习了如何安装 IntelliJ IDEA，您可以继续学习下一个教程。在该教程中您将学习如何安装 MaxCompute Studio 插件。详情请参见 [安装 Studio 插件](cn.zh-CN/工具及下载/MaxCompute Studio/工具安装与版本信息/安装步骤.md)。
 

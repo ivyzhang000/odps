@@ -1,6 +1,6 @@
 # 与标准SQL的主要区别及解决方法 {#concept_tcb_h12_5db .concept}
 
-本文将从习惯使用关系型数据库 SQL 用户的实践角度出发，列举用户在使用 MaxCompute SQL 时比较容易遇见的问题。具体的 MaxCompute SQL 语法请参见[SQL 概述](../DNODPS1898901/ZH-CN_TP_11987_V1.dita)。
+本文将从习惯使用关系型数据库 SQL 用户的实践角度出发，列举用户在使用 MaxCompute SQL 时比较容易遇见的问题。具体的 MaxCompute SQL 语法请参见[SQL 概述](../cn.zh-CN/用户指南/SQL/SQL概述.md)。
 
 ## MaxCompute SQL 基本区别 {#section_zt4_pb2_5db .section}
 
@@ -32,7 +32,7 @@
 
 -   为防止出现各种预期外的错误，如果有 2 个不同的字段类型需要做 Join，建议您先把类型转好后再 Join，同时更容易维护代码。
 
--   关于日期型和字符串的隐式转换。在需要传入日期型的函数里如果传入一个字符串，字符串和日期类型的转换根据 yyyy-mm-dd hh:mi:ss 格式进行转换。如果是其他格式请参见 [日期函数 \> TO\_DATE](../DNODPS1898901/ZH-CN_TP_11995_V1.dita)。
+-   关于日期型和字符串的隐式转换。在需要传入日期型的函数里如果传入一个字符串，字符串和日期类型的转换根据 yyyy-mm-dd hh:mi:ss 格式进行转换。如果是其他格式请参见 [日期函数 \> TO\_DATE](../cn.zh-CN/用户指南/SQL/内建函数/日期函数.md)。
 
 
 ## DDL 的区别及解法 { .section}
@@ -75,7 +75,7 @@
 
 **SQL 返回 10000 条**
 
--   MaxCompute 限制了单独执行 Select 语句时返回的数据条数，具体配置请参见[其他操作](../DNODPS1898901/ZH-CN_TP_11963_V1.dita)，设置上限为 1 万。如果需要查询的结果数据条数很多，请参见 [如何获取所有数据](https://help.aliyun.com/document_detail/40333.html)，配合 Tunnel 命令获取全部数据。
+-   MaxCompute 限制了单独执行 Select 语句时返回的数据条数，具体配置请参见[其他操作](../cn.zh-CN/用户指南/常用命令/其他操作.md)，设置上限为 1 万。如果需要查询的结果数据条数很多，请参见 [如何获取所有数据](https://help.aliyun.com/document_detail/40333.html)，配合 Tunnel 命令获取全部数据。
 
 **MAPJOIN**
 

@@ -1,6 +1,6 @@
 # 开发MapReduce {#concept_nvh_s2c_5db .concept}
 
-创建完成[MaxCompute Java Module](ZH-CN_TP_12129_V1.dita)后，即可以开始开发[MR](../DNODPS1898901/ZH-CN_TP_12013_V1.dita)了。
+创建完成[MaxCompute Java Module](cn.zh-CN/工具及下载/MaxCompute Studio/开发 Java 程序/创建 MaxCompute Java Module.md)后，即可以开始开发[MR](../cn.zh-CN/用户指南/MapReduce/概要/MapReduce概述.md)了。
 
 ## 开发MR {#section_gr4_mgg_vdb .section}
 
@@ -45,7 +45,7 @@ MR开发好后，下一步就是要测试自己的代码，看是否符合预期
 
 1.  首先，你得将自己的MR程序打成jar包，并发布到服务端。[如何打包发布？](https://help.aliyun.com/document_detail/50904.html)
 
-2.  通过studio无缝集成的MaxCompute console（具体的，在Project Explorer Window的project上右键，选择Open in Console），在console命令行中输入类似如下的 [jar命令](../DNODPS1898901/ZH-CN_TP_12017_V1.dita)：
+2.  通过studio无缝集成的MaxCompute console（具体的，在Project Explorer Window的project上右键，选择Open in Console），在console命令行中输入类似如下的 [jar命令](../cn.zh-CN/用户指南/MapReduce/功能介绍/作业提交.md)：
 
     ```
     jar-libjars wordcount.jar -classpath D:\odps\clt\wordcount.jar com.aliyun.odps.examples.mr.WordCount wc_in wc_out;

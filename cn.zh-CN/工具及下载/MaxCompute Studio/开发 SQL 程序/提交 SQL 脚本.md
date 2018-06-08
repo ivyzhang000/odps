@@ -4,9 +4,9 @@ MaxCompute Studio 可直接将 MaxCompute SQL 提交到服务端运行，并显�
 
 ## 前提条件 {#section_zrx_zsf_vdb .section}
 
--   首先 [创建 MaxCompute 项目连接](ZH-CN_TP_12119_V1.dita)，并绑定目标项目。
+-   首先 [创建 MaxCompute 项目连接](cn.zh-CN/工具及下载/MaxCompute Studio/项目空间连接管理.md)，并绑定目标项目。
 
--   创建[MaxCompute Studio Module](ZH-CN_TP_12125_V1.dita)。
+-   创建[MaxCompute Studio Module](cn.zh-CN/工具及下载/MaxCompute Studio/开发 SQL 程序/创建 MaxCompute Script Module.md)。
 
 -   在提交前需根据自身需求进行相关设置。MaxCompute Studio 提供了丰富的设置功能，可在 Editor 编辑页面上方的 Tool Bar 工具栏中快速设置。设置主要分为以下三种：
 

@@ -2,7 +2,7 @@
 
 PyOdps是MaxCompute Python版本的SDK， 它提供了对MaxCompute对象的基本操作，并提供了DataFrame框架，您可以在MaxCompute上进行数据分析。
 
-1.  使用PyOdps开发脚本，首先需要[安装PyOdps及Python插件](ZH-CN_TP_13746_V1.dita)，安装完成后即可直接新建一个MaxCompute PyODPS脚本。
+1.  使用PyOdps开发脚本，首先需要[安装PyOdps及Python插件](cn.zh-CN/工具及下载/MaxCompute Studio/开发Python程序/Python开发使用须知.md)，安装完成后即可直接新建一个MaxCompute PyODPS脚本。
 
     ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/13748/3447_zh-CN.png)
 

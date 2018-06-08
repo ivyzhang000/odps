@@ -4,7 +4,7 @@ MaxCompute Studio集成了MaxCompute客户端程序，可在Studio中直接打�
 
 ## 配置客户端安装路径 {#section_gbv_bh4_vdb .section}
 
-1.  Studio中已包含最新版MaxCompute客户端程序，并指定为默认客户端。用户也可自行指定其他版本客户端程序，设置位置为：Intellij Settings | MaxCompute Studio | SDK & Console 中添加客户端程序跟路径。[Console下载地址](ZH-CN_TP_12112_V1.dita)
+1.  Studio中已包含最新版MaxCompute客户端程序，并指定为默认客户端。用户也可自行指定其他版本客户端程序，设置位置为：Intellij Settings | MaxCompute Studio | SDK & Console 中添加客户端程序跟路径。[Console下载地址](cn.zh-CN/工具及下载/客户端.md)
 
     ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/12141/2453_zh-CN.png)
 

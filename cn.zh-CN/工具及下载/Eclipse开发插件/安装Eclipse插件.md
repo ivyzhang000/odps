@@ -1,6 +1,6 @@
 # 安装Eclipse插件 {#concept_p3g_jp5_vdb .concept}
 
-为了方便您使用[MapReduce](../DNODPS1898901/ZH-CN_TP_12013_V1.dita) 及 [UDF](../DNODPS1898901/ZH-CN_TP_12002_V1.dita) 的 Java SDK 进行开发工作，MaxCompute（原 ODPS） 提供了 Eclipse 开发插件。该插件能够模拟 MapReduce 及 UDF 的运行过程，为您提供本地调试手段，并提供了简单的模板生成功能。
+为了方便您使用[MapReduce](../cn.zh-CN/用户指南/MapReduce/概要/MapReduce概述.md) 及 [UDF](../cn.zh-CN/用户指南/SQL/UDF/UDF概述.md) 的 Java SDK 进行开发工作，MaxCompute（原 ODPS） 提供了 Eclipse 开发插件。该插件能够模拟 MapReduce 及 UDF 的运行过程，为您提供本地调试手段，并提供了简单的模板生成功能。
 
 **说明：** 
 

@@ -91,7 +91,7 @@
 
 接下来我们用[访问OSS非结构化数据](cn.zh-CN/用户指南/处理非结构化数据/访问OSS非结构化数据.md)中“自定义 Extractor 访问 OSS”的‘TextStorageHandler ’例子来介绍MaxCompute如何通过自定义StorageHandler 将数据输出到OSS的txt文件，且以‘|’为列分隔符，以‘\\n’为换行符。
 
-**说明：** [MaxCompute Studio](../cn.zh-CN/工具及下载/MaxCompute Studio/认识 Studio.md)配置好[../DNODPS1857765/ZH-CN\_TP\_12129\_V1.md](../cn.zh-CN/工具及下载/MaxCompute Studio/开发 Java 程序/创建 MaxCompute Java Module.md)后，可以在examples中看到对应的示例代码。或者点击[此处](https://github.com/aliyun/aliyun-odps-java-sdk/tree/master/odps-sdk-impl/odps-udf-example/src/main/java/com/aliyun/odps/udf/example/text)也看到完整代码。
+**说明：** [MaxCompute Studio](../cn.zh-CN/工具及下载/MaxCompute Studio/认识 Studio.md)配置好[MaxCompute Java Module](../cn.zh-CN/工具及下载/MaxCompute Studio/开发 Java 程序/创建 MaxCompute Java Module.md)后，可以在examples中看到对应的示例代码。或者点击[此处](https://github.com/aliyun/aliyun-odps-java-sdk/tree/master/odps-sdk-impl/odps-udf-example/src/main/java/com/aliyun/odps/udf/example/text)也看到完整代码。
 
 -   **定义Outputer**
 

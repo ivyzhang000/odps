@@ -59,7 +59,7 @@ MaxCompute SQL 配置选项页面提供以下配置项：
 
 ## Account 配置选项页 {#section_s45_v34_vdb .section}
 
-Account 配置选项页面提供添加和管理用户用于访问 MaxCompute 所用账户，参考 [用户认证](../DNODPS1898901/ZH-CN_TP_12094_V1.dita)：
+Account 配置选项页面提供添加和管理用户用于访问 MaxCompute 所用账户，参考 [用户认证](../cn.zh-CN/用户指南/安全指南/用户认证.md)：
 
 Studio 需要通过用户指定的账号访问 MaxCompute 的项目空间和执行提交作业等操作，目前 Studio 支持的账号类型有：
 
@@ -74,7 +74,7 @@ Studio 需要通过用户指定的账号访问 MaxCompute 的项目空间和执�
 3.  在弹出的 Add Account 窗口中填入:
     -   Account Name： 改账户在 Studio 中的标识名称。
     -   Using properties file: 从配置文件中读取 AccessKey ID 和 AccessKey Secret。
-        -   选择一个在 [用户认证](../DNODPS1898901/ZH-CN_TP_12094_V1.dita) 中 `conf/odps_config.ini` 示例的配置文件。
+        -   选择一个在 [用户认证](../cn.zh-CN/用户指南/安全指南/用户认证.md) 中 `conf/odps_config.ini` 示例的配置文件。
     -   Using properties： 手工填入 AccessKey ID 和 AccessKey Secret。
         -   Access Id： 填入用户阿里云账号的 AccessKey ID。
         -   Access Key：填入用户阿里云账号的 AccessKey Secret。

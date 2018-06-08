@@ -618,7 +618,7 @@ Fuxi job failed - WorkerRestart errCode:9,errMsg:SigKill(OOM), usually caused by
 
 ## wm\_concat.first.argument.const {#section_rvv_p3d_5db .section}
 
-[聚合函数](../DNODPS1898901/ZH-CN_TP_11999_V1.dita)中关于 WM\_CONCAT 的说明，一直要求 WM\_CONCAT 第一个参数为常量，旧版 MaxCompute 检查不严格，比如源表没有数据，就算 WM\_CONCAT 第一个参数为 ColumnReference，也不会报错。
+[聚合函数](../cn.zh-CN/用户指南/SQL/内建函数/聚合函数.md)中关于 WM\_CONCAT 的说明，一直要求 WM\_CONCAT 第一个参数为常量，旧版 MaxCompute 检查不严格，比如源表没有数据，就算 WM\_CONCAT 第一个参数为 ColumnReference，也不会报错。
 
 ```
 
@@ -701,7 +701,7 @@ INSERT OVERWRITE TABLE srcpt PARTITION(pt) SELECT id, 'pt1' FROM dual;
 INSERT OVERWRITE TABLE srcpt PARTITION(pt='pt1') SELECT id FROM dual;
 ```
 
-如果用户指定的分区值不合法，比如错误的使用了’$\{bizdate\}’，MaxCompute2.0 语法检查阶段便会报错。详情请参见 [MaxCompute 分区值定义说明](../DNODPS1898901/ZH-CN_TP_11990_V1.dita)。
+如果用户指定的分区值不合法，比如错误的使用了’$\{bizdate\}’，MaxCompute2.0 语法检查阶段便会报错。详情请参见 [MaxCompute 分区值定义说明](../cn.zh-CN/用户指南/SQL/DDL语句.md)。
 
 错误写法：
 

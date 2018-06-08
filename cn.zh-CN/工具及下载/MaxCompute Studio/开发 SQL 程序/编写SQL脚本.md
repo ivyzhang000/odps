@@ -1,6 +1,6 @@
 # 编写SQL脚本 {#concept_nvh_s3d_5db .concept}
 
-[MaxCompute Studio 模块创建完成后](ZH-CN_TP_12125_V1.dita)，即可开始编写 MaxCompute SQL 脚本。
+[MaxCompute Studio 模块创建完成后](cn.zh-CN/工具及下载/MaxCompute Studio/开发 SQL 程序/创建 MaxCompute Script Module.md)，即可开始编写 MaxCompute SQL 脚本。
 
 ## 操作步骤 {#section_vpm_rlf_vdb .section}
 
@@ -14,7 +14,7 @@
 
     -   Script Name：脚本名称。
     -   Script type：脚本类型。
-    -   Target Project：目标 MaxCompute 项目。单击后面的 **+** 即可新建一个MaxCompute Project，配置详情请参见 [新建项目空间连接](ZH-CN_TP_12119_V1.dita)。
+    -   Target Project：目标 MaxCompute 项目。单击后面的 **+** 即可新建一个MaxCompute Project，配置详情请参见 [新建项目空间连接](cn.zh-CN/工具及下载/MaxCompute Studio/项目空间连接管理.md)。
 3.  在 SQL 文件编辑界面中，编写 SQL。
 
     ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/12126/1849_zh-CN.png)
