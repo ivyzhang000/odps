@@ -1,2 +1,2 @@
-# DDL语句 {#concept_dgt_ftd_5db .concept}
+# DDL语句 {#concept_uvp_wqs_c2b .concept}
 
