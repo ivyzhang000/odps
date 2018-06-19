@@ -29,11 +29,11 @@ MaxCompute运行在Window/Linux下的客户端工具，通过Console可以提交
 
 -   **DDL**
 
-    Data Definition Language（数据定义语言）。比如创建表、创建视图等操作，MaxCompute DDL语法请参见[用户指南\>DDL 语句](../cn.zh-CN/用户指南/SQL/DDL语句.md)。
+    Data Definition Language（数据定义语言）。比如创建表、创建视图等操作，MaxCompute DDL语法请参见[用户指南\>DDL 语句](../cn.zh-CN/用户指南/SQL/DDL语句/表操作.md)。
 
 -   **DML**
 
-    Data Manipulation Language（数据操作语言）。比如INSERT操作，MaxCompute DML语法请参见 [用户指南\>INSERT 操作](../cn.zh-CN/用户指南/SQL/INSERT操作.md)。
+    Data Manipulation Language（数据操作语言）。比如INSERT操作，MaxCompute DML语法请参见 [用户指南\>INSERT 操作](../cn.zh-CN/用户指南/SQL/INSERT操作/VALUES.md)。
 
 
 -   **Partition（分区）**
